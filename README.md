@@ -1,6 +1,8 @@
 # drag_and_drop
 
-A new Flutter project.
+<p align="center">
+  <img src="./docs/drag_and_drop.gif"/>
+</p>
 
 ## Getting Started
 
